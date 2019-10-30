@@ -1,18 +1,18 @@
 {
     "project": {
         "name": "mybgg",
-        "title": ""
+        "title": "Madr Board Games"
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "madrse",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME",
+        "app_id": "EMVWHXZ9GL",
+        "api_key_search_only": "f4dbc6f38d9438cae18d50c04a4d0a5f",
+        "index_name": "madrse-board-games",
         "hits_per_page": 24
     }
 }
