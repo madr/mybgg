@@ -1,18 +1,18 @@
 {
-    "project": {
-        "name": "mybgg",
-        "title": "Madr Board Games"
-    },
-    "boardgamegeek": {
-        "user_name": "madrse",
-        "extra_params": {
-            "own": 1
-        }
-    },
-    "algolia": {
-        "app_id": "EMVWHXZ9GL",
-        "api_key_search_only": "f4dbc6f38d9438cae18d50c04a4d0a5f",
-        "index_name": "madrse-board-games",
-        "hits_per_page": 24
+  "project": {
+    "name": "mybgg",
+    "title": "Madr Board Games"
+  },
+  "boardgamegeek": {
+    "user_name": "madrse",
+    "extra_params": {
+      "own": 1
     }
+  },
+  "algolia": {
+    "app_id": "QE1CNUKBMY",
+    "api_key_search_only": "0bc0387842567221e50de5dc4968dc9f",
+    "index_name": "madrse-board-games",
+    "hits_per_page": 24
+  }
 }
